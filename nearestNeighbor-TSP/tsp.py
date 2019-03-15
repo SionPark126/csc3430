@@ -40,9 +40,9 @@ for line in lines:
     if countCities == 29:
         #print(neighbors)
         currentWeight, currentNeighbor = nearest(neighbors)
-        #print(currentNeighbor)
-       # print(neighbor)
-       # print (currentWeight)
+        file = 
+        print(currentNeighbor)
+        print (currentWeight)
        
         visited.append(currentNeighbor)
         print(visited)
