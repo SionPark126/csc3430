@@ -25,17 +25,17 @@ Clear the previous operation, should clear the colored graph and return the grap
 ```
 $ java -jar adaa.jar inputfile.txt
 ```
-The program reads the input file and draws a graph in the program as seen below
+* The program reads the input file and draws a graph in the program as seen below
 
 ![image](/images/image1.png)
 
-User can pick from two different layouts. (The default one and the layout2)
+* User can pick from two different layouts. (The default one and the layout2)
 ![image](/images/image2.png)
 
-Then user can find minimum spanning tree of the graph by clicking "Minimum Spanning Tree" button. 
+* Then user can find minimum spanning tree of the graph by clicking "Minimum Spanning Tree" button. 
 ![image](/images/image3.png)
 
-User also can put the start and end node to find the shortest path between two nodes.
+* User also can put the start and end node to find the shortest path between two nodes.
 ![image](/images/image4.png)
 
 ## NearestNeighbor-TSP
